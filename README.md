@@ -1,10 +1,10 @@
-### Hi there. I'm Fadhil Kolakkadan 👋
+### Hi there. I'm Linshad 👋
 
 - :zap: I love math and Computers, so that's how I spend most of my days
 - 📌 More about me at:
-   - 💻 [Personal Portfolio]()
+   - 💻 [Personal Portfolio](#)
    - 🏢 [LinkedIn](https://www.linkedin.com/in/linshad-j/)
-   - 💻 [Blog]()
+   - 💻 [Blog](#)
 - 🤙 Contact me at:
    - 📧 [Email](linshadlichu@gmail.com)
 
